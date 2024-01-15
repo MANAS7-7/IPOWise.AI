@@ -23,7 +23,7 @@ IPO Wise is an intelligent solution that leverages web scraping, Google Cloud Ve
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Shraeya7/IPOWise.ai.git
+    git clone https://github.com/MANAS7-7/IPOWise.ai.git
     ```
 
 2. Install dependencies:
